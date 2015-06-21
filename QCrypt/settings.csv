@@ -1,0 +1,4 @@
+saltlen,512
+iterations,25000
+dklen,512
+hashfn,pbkdf2
